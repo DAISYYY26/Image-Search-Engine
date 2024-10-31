@@ -1,4 +1,4 @@
-const accessKey = "SQWDs_ncir5zpZSuW692z1IzjZ5qp-IU2NQNAb8byf4"
+const accessKey = "your access key should be attached here from api.unsplash.com"
 
 const searchForm = document.getElementById("search-form")
 const searchBox = document.getElementById("search-box")
